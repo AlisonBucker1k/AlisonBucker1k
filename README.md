@@ -17,7 +17,6 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 <br>
 
 ### 🔨 Linguagens e ferramentas:
-<br>
 
 <a href="https://bckcode.com.br/" target="_blank"> <img src="https://bckcode.com.br/assets/img/root/fav-icon.png" align="left" alt="git" height='42px'/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" align="left" alt="git" height='42px'/> </a>
@@ -28,9 +27,8 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-<br><br>
-### 📊 Github Status
 <br>
+### 📊 Github Status
 
 ![AlisonBucker1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisonBucker1k&show_icons=true&theme=merko)
 <br>
