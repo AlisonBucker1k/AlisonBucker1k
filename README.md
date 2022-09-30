@@ -1,5 +1,5 @@
 ## Hey Guys! Alison Bucker here! 🖖
-<a href='https://www.linkedin.com/in/alison-bucker-153684144/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/alison-bucker-153684144/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br>
 
 Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 e apreciador de um bom trabalho de UX & UI design 🤩. Gosto de conhecer novas possíbilidades e explorar novas tecnologias 💻 e aproveita-las para construir coisas legais 😎🆒🛠️.
@@ -9,7 +9,7 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 
 ### 🧐 Mais Sobre Mim:
 
-- 🔭 &nbsp; Atualmente trabalho em diversos projetos com a <a href="https://bckcode.com.br">BCKCode</a> & <a href="https://iguanait.com.br">IguanaIt</a> 
+- 🔭 &nbsp; Atualmente trabalho em diversos projetos com a <a href="https://bckcode.com.br" target="_blank">BCKCode</a> & <a href="https://iguanait.com.br" target="_blank">IguanaIt</a> 
 - 🌱 &nbsp; Estou estudando Typescript, Laravel Framework e música nas horas vagas
 - 👨🏻‍💻 &nbsp; Parte dos meus projetos são privados e estão em on [Github](https://github.com/AlisonBucker1k?tab=repositories)
 - 📚 &nbsp; Quando estou livre, gosto de tocar guitarra 🎸 e assistir filmes de terror 🎥
