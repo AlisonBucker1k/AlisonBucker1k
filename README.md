@@ -29,7 +29,6 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 
 <br><br>
 ### 📊 Github Status
-<br>
 
 ![AlisonBucker1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisonBucker1k&show_icons=true&theme=merko)
 <br>
