@@ -13,7 +13,7 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 - 🌱 &nbsp; Estou estudando Typescript, Laravel Framework e música nas horas vagas
 - 👨🏻‍💻 &nbsp; Parte dos meus projetos são privados e estão em on [Github](https://github.com/AlisonBucker1k?tab=repositories)
 - 📚 &nbsp; Quando estou livre, gosto de tocar guitarra 🎸 e assistir filmes de terror 🎥
-- 😡 &nbsp; Odeio códigos mal identados
+- 😡 &nbsp; Hater de códigos mal identados
 
 ### 🔨 Linguagens e ferramentas:
 
