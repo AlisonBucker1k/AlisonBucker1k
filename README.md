@@ -13,7 +13,7 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 <br>
 
 - 🔭 &nbsp; Atualmente trabalho em diversos projetos com a <a href="https://bckcode.com.br">BCKCode</a> & <a href="https://iguanait.com.br">IguanaIt</a> 
-- 🌱 &nbsp; Estou estudando Typescript & Laravel Framework e música nas horas vagas
+- 🌱 &nbsp; Estou estudando Typescript, Laravel Framework e música nas horas vagas
 - 👨🏻‍💻 &nbsp; Parte dos meus projetos são privados e estão em on [Github](https://github.com/AlisonBucker1k?tab=repositories)
 - 📚 &nbsp; Quando estou livre, gosto de tocar guitarra 🎸 e assistir filmes de terror 🎥
 
