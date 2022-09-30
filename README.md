@@ -5,7 +5,7 @@
 Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 e apreciador de um bom trabalho de UX & UI design 🤩. Gosto de conhecer novas possíbilidades e explorar novas tecnologias 💻 e aproveita-las para construir coisas legais 😎🆒🛠️.
 <br/>
 
-<img align="right" alt="GIF" src="https://retouchingcentral.com/wp-content/uploads/2019/03/matrix-10.gif" width="460px"/>
+<img align="right" alt="GIF" src="https://retouchingcentral.com/wp-content/uploads/2019/03/matrix-10.gif" width="360px"/>
 <br>
 
 ### 🧐 Mais Sobre Mim:
