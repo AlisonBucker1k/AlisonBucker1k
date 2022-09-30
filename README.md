@@ -6,11 +6,8 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 <br/>
 
 <img align="right" alt="GIF" src="https://retouchingcentral.com/wp-content/uploads/2019/03/matrix-10.gif" width="260px"/>
-<br>
 
 ### 🧐 Mais Sobre Mim:
-
-<br>
 
 - 🔭 &nbsp; Atualmente trabalho em diversos projetos com a <a href="https://bckcode.com.br">BCKCode</a> & <a href="https://iguanait.com.br">IguanaIt</a> 
 - 🌱 &nbsp; Estou estudando Typescript, Laravel Framework e música nas horas vagas
