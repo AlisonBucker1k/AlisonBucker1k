@@ -14,7 +14,6 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 - 👨🏻‍💻 &nbsp; Parte dos meus projetos são privados e estão em on [Github](https://github.com/AlisonBucker1k?tab=repositories)
 - 📚 &nbsp; Quando estou livre, gosto de tocar guitarra 🎸 e assistir filmes de terror 🎥
 
-<br>
 
 ### 🔨 Linguagens e ferramentas:
 
