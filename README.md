@@ -27,10 +27,4 @@ Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br><br>
-### 📊 Github Status
-
-![AlisonBucker1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlisonBucker1k&show_icons=true&theme=merko)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonBucker1k&layout=compact&theme=merko)](https://github.com/AlisonBucker1k/github-readme-stats)
 
