@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/alison-bucker-153684144/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br>
 
-Sou Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 e apreciador de um bom trabalho de UX & UI design 🤩. Gosto de conhecer novas possíbilidades e explorar novas tecnologias 💻 e aproveita-las para construir coisas legais 😎🆒🛠️.
+Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 e apreciador de um bom trabalho de UX & UI design 🤩. Gosto de conhecer novas possíbilidades e explorar novas tecnologias 💻 e aproveita-las para construir coisas legais 😎🆒🛠️.
 <br/>
 
 <img align="right" alt="GIF" src="https://retouchingcentral.com/wp-content/uploads/2019/03/matrix-10.gif" width="310px"/>
