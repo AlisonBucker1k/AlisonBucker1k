@@ -9,7 +9,7 @@ Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 e ap
 
 ### 🧐 Mais Sobre Mim:
 
-- 🔭 &nbsp; Atualmente trabalho em diversos projetos com a <a href="https://bckcode.com.br" target="_blank">BCKCode</a> & <a href="https://iguanait.com.br" target="_blank">IguanaIt</a> 
+- 🔭 &nbsp; Atualmente trabalho em diversos projetos com a <a href="https://bckcode.com.br" target="_blank">BCKCode</a> 
 - 🌱 &nbsp; Estou estudando React, Laravel Framework e música nas horas vagas
 - 👨🏻‍💻 &nbsp; Parte dos meus projetos são privados e estão no [Github](https://github.com/AlisonBucker1k?tab=repositories)
 - 📚 &nbsp; Quando estou livre, gosto de tocar guitarra 🎸 e assistir filmes de terror 🎥
