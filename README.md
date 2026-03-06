@@ -1,30 +1,58 @@
-## Hey Guys! Alison Bucker here! 🖖
-<a href='https://www.linkedin.com/in/alison-bucker-153684144/' target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<br>
+# Olá! Eu sou o Alison Bucker 👋 🖖
 
-Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 e apreciador de um bom trabalho de UX & UI design 🤩. Gosto de conhecer novas possíbilidades,  explorar novas tecnologias 💻 e aproveita-las para construir coisas legais 😎🆒🛠️.
-<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20tecnologia%20move%20o%20mundo.&author=Steve%20Jobs" alt="Quote" />
+</div>
 
-<img align="right" alt="GIF" src="https://retouchingcentral.com/wp-content/uploads/2019/03/matrix-10.gif" width="310px"/>
+---
 
-### 🧐 Mais Sobre Mim:
+### 🚀 Sobre Mim
 
-- 🔭 &nbsp; Atualmente trabalho em diversos projetos com a <a href="https://bckcode.com.br" target="_blank">BCKCode</a> 
-- 🌱 &nbsp; Estou estudando React, Laravel Framework e música nas horas vagas
-- 👨🏻‍💻 &nbsp; Parte dos meus projetos são privados e estão no [Github](https://github.com/AlisonBucker1k?tab=repositories)
-- 📚 &nbsp; Quando estou livre, gosto de tocar guitarra 🎸 e assistir filmes de terror 🎥
-- 😡 &nbsp; Hater de códigos mal identados.
+Sou **Desenvolvedor Web Full Stack** e **Mobile**, apaixonado por transformar ideias complexas em interfaces intuitivas e eficientes. Com um olhar atento para **UX/UI Design**, busco sempre a harmonia entre performance e estética.
 
-### 🔨 Linguagens e ferramentas:
+* 🔭 Atualmente escalando projetos na **[BCKCode](https://bckcode.com.br)**.
+* 🌱 Aprofundando conhecimentos em **React**, **Laravel Framework** e teoria musical.
+* 🎸 Nas horas vagas, troco o teclado pela guitarra e maratono filmes de terror.
+* 🧹 Defensor ferrenho de código limpo e identação impecável.
 
-<a href="https://bckcode.com.br/" target="_blank"> <img src="https://bckcode.com.br/assets/img/root/fav-icon.png" align="left" alt="git" height='42px'/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+---
 
-<br><br>
+### 🛠️ Toolbox Tecnológica
 
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estatísticas & Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlisonBucker1k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonBucker1k&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alison-bucker-153684144/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://bckcode.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-BCKCode-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
