@@ -28,3 +28,11 @@ Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 e ap
 
 <br><br>
 
+### Cobrinha dos commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlisonBucker1k/AlisonBucker1k/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlisonBucker1k/AlisonBucker1k/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha no grid de contribuições do GitHub" src="https://raw.githubusercontent.com/AlisonBucker1k/AlisonBucker1k/main/dist/github-contribution-grid-snake.svg" />
+</picture>
+
