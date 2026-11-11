@@ -36,4 +36,5 @@ Desenvolvedor Web Full Stack 🌐, Desenvolvedor de aplicativos mobile 📱 e ap
   <img alt="Animação da cobrinha no grid de contribuições do GitHub" src="https://raw.githubusercontent.com/AlisonBucker1k/AlisonBucker1k/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
+![ASCII](${APP_URL}/api/AlisonBucker1k?widget=ascii)
 
